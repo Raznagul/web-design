@@ -1,0 +1,33 @@
+body {
+    background-color: red;
+}
+
+@media print {
+
+    header {
+        display: none;
+    }
+    nav {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 470px){
+    body {
+        background-color: lightblue;
+    }
+    
+    aside {
+        display: none;
+    }
+}
+@media screen and (max-width: 320px){
+    body {
+        background-color: yellow;
+        padding: 0;
+    }
+
+}
