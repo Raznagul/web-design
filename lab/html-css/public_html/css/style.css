@@ -1,0 +1,34 @@
+*{
+    background-color: #FFFFF0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    position: static;
+}
+
+.position-relative{
+    position: relative;
+    left: 50px;
+}
+
+.position-absolute{
+    position: absolute;
+}
+
+.right{
+    right: 0;
+}
+
+.position-fixed{
+    position: fixed;
+}
+
+.center{
+    right: 50%;
+}
+
+.float-left{
+    float: left;
+}
+
+.col-1-3, .col-2-3, .col-3-3{
+    width: 33%;
+}
