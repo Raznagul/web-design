@@ -5,4 +5,19 @@
     nav {
         display: none;
     }
+
+    .main-image {
+        display: none;
+    }
+
+    .col-1, .col-2, header{
+        display: block;
+        float: none;
+        width: 100%;
+    }
+
+    .highlight{
+        border: 0;
+        padding: 0;
+    }
 }
