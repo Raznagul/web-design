@@ -1,0 +1,18 @@
+# Schema for the theme setting configuration file of the lab_drupal theme.
+
+lab_drupal.settings:
+  type: theme_settings
+  label: 'lab_drupal settings'
+  region_wells:
+    navigation: ''
+    navigation_col2: ''
+    navigation_bottom: ''
+    navigation_collapsible: ''
+    header: ''
+    highlighted: ''
+    help: ''
+    content: '' 
+    sidebar_first: ''
+    sidebar_second: ''
+    footer: ''
+    edu_footer: ''
