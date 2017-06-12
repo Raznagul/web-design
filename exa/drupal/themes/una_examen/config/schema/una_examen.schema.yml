@@ -1,0 +1,15 @@
+# Schema for the theme setting configuration file of the una_examen theme.
+
+una_examen.settings:
+  type: theme_settings
+  label: 'una_examen settings'
+  region_wells:
+    navigation: ''
+    navigation_collapsible: ''
+    header: ''
+    highlighted: ''
+    help: ''
+    content: ''
+    sidebar_first: ''
+    sidebar_second: ''
+    footer: ''
